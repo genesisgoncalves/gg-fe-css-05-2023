@@ -1,0 +1,22 @@
+#contenedor {
+    width: 100vw;
+    height: 90vh;
+}
+
+div {
+    float: left;
+}
+
+.div-nav {
+    width: 20%;
+    height: 100%;
+}
+
+.sub-title {
+    color: rgb(146, 196, 39);
+    font-family: 'Lucida Sans Unicode';
+}
+
+p {
+    font-family: 'Lucida Sans Unicode';
+}
