@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 246, 230);
+}
+
+h1 {
+    font-family:  'Gill Sans', sans-serif;
+    font-style: italic;
+    color: steelblue;
+    font-weight: bold;
+}
+
+.barra {
+    background-color: rgb(252, 211, 114);
+    font-family: sans-serif;
+    color: rgb(50, 50, 50);
+}
+
+.info {
+    font-family: sans-serif;
+    color: steelblue;
+    font-style: italic;
+}
+
+.sub-title {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: steelblue;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(228, 241, 255);
+}
+
+.text-blue {
+    font-family: cursive;
+    font-style: italic;
+    color: rgb(0, 47, 74);
+}
+
+p {
+    color: rgb(0, 47, 74);
+}
