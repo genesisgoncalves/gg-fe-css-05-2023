@@ -1,0 +1,28 @@
+body {
+    background-image: url(../img/derek-oyen-3Xd5j9-drDA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    width: 50%;
+    background-color: rgb(250, 242, 229);
+    border: rgb(221, 199, 155) 3px solid;
+    border-style: outset;
+}
+
+th {
+    padding: 5px;
+    background-color: white;
+    border: gray 1px solid;
+}
+
+td {
+    padding: 5px;
+    border: gray 1px solid;
+}

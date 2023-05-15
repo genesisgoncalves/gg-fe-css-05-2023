@@ -1,0 +1,29 @@
+table {
+    border: rgb(238, 238, 238) 6px;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border-style: outset;
+}
+
+.celda-par {
+    background-color: rgb(159, 207, 188);
+}
+
+.celda-impar {
+    background-color: rgb(190, 239, 220);
+}
+
+.celda-principal {
+    background-color: rgb(5, 45, 57);
+    padding: 10px;
+    color: rgb(202, 232, 218);
+}
+
+td {
+    border: rgb(37, 134, 190) solid 1px;
+    padding: 5px;
+}
+
+th {
+    border: rgb(32, 141, 205) solid 1px;
+}
