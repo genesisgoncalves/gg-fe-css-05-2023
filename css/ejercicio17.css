@@ -1,0 +1,89 @@
+body {
+    background-image: url(../img/ac.jpg);
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: rgb(0, 0, 0) solid 2px;
+    float: left;
+    background-color: aliceblue;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#divA {
+    background-image: url(../img/back_mantel.jpg);
+}
+
+#divB {
+    width: 160px;
+    height: 160px;
+    background-image: url(../img/back_mantel.jpg);
+    padding: 20px;
+    background-clip: content-box;
+}
+
+#divC {
+    background-image: url(../img/back_mantel.jpg);
+    background-size: cover;
+}
+
+#divD {
+    background-color: white;
+    background-image: url(../img/back_mantel.jpg);
+    background-size: cover;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+}
+
+#divE {
+    background-image: url(../img/dh_2.jpg);
+    background-size: cover;
+    background-position: 50%;
+}
+
+#divF {
+    background-color: white;
+    background-image: url(../img/dh.jpg);
+    background-size: cover;
+    background-position: 50%;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+}
+
+#divG {
+    background-color: white;
+    background-image: url(../img/dh_2.jpg);
+    background-size: contain;
+    background-position: 50%;
+    background-origin: content-box;
+    background-repeat: repeat-x;
+}
+
+#divH {
+    background-color: white;
+    background-image: url(../img/dh_3.jpg);
+    background-size: contain;
+    background-position: center;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+}
+
+#divI {
+    background: linear-gradient(to right, yellow 0%, grey 100%);
+}
+
+#divJ {
+    background: linear-gradient(to bottom, white 10%, orange 70%, red 20%)
+}
+
+#divK {
+    background: linear-gradient(to top, rgb(32, 183, 54) 0%, rgb(255, 253, 250) 100%)
+}
+
+#divL {
+    background: linear-gradient(to top, yellow 0%, grey 100%);
+    opacity: 50%;
+}

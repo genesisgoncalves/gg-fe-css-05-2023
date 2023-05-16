@@ -4,9 +4,10 @@ body {
     background-size: cover;
 }
 
-div {
+.div {
     display: flex;
     justify-content: center;
+    align-content: center;
 }
 
 table {
@@ -25,4 +26,8 @@ th {
 td {
     padding: 5px;
     border: gray 1px solid;
+}
+
+#box {
+    height: 30vh;
 }
